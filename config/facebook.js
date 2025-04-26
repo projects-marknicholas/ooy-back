@@ -1,0 +1,6 @@
+export const FB_CONFIG = {
+  PAGE_ACCESS_TOKEN: "EAAJdrm7dv8gBO2TkcdqnBXqeigAMCfJvE4f4LBUItFeekQshDFRyCHZAYU1oXIUMB6OIjZCSyvRwi1tBQ8h4otYmzPQtXmxQxPVyVadjVrHvK4plr6ZCEvjzAZBxLed9OZB4ORjLv3uEZAJF98gP2d7xB5svI2pMfFRKyqo42wspQiFfnonjkLTgV0iDagdbpmqtj4rDuaWq4XTAZDZD",
+  VERIFY_TOKEN: "your_verification_token",
+  PAGE_ID: "148356005577403",
+  API_VERSION: "v15.0"
+};
